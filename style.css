@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image:url(be-your-own-muse-achtergrond-02.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+
+}
+#groteKnop{
+    position: absolute;
+    width: 355px;
+    height: 477px;
+    left: 163px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#groteKnop:hover{
+    transform: scale(1.1);
+}
+#groteKnop h4{
+    margin-top: 420px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+}
+#balk{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1535px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+}
+#kleineKnop1{
+    position: absolute;
+    width: 247px;
+    height: 220px;
+    left: 736px;
+    top: 193px;
+    background: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    font-family: 'Inter';
+    font-style: normal;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#kleineKnop1:hover{
+    transform: scale(1.1);
+}
+#kleineKnop2{
+    position: absolute;
+    width: 247px;
+    height: 212px;
+    left: 1044px;
+    top: 193px;
+    background: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    font-family: 'Inter';
+    font-style: normal;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#kleineKnop2:hover{
+    transform: scale(1.1);
+}
+#kleineKnop3{
+    position: absolute;
+    width: 247px;
+    height: 216px;
+    left: 736px;
+    top: 455px;
+    background: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    font-family: 'Inter';
+    font-style: normal;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#kleineKnop3:hover{
+    transform: scale(1.1);
+}
+#kleineKnop4{
+    position: absolute;
+    width: 243px;
+    height: 212px;
+    left: 1048px;
+    top: 455px;
+    background: #FFFFFF;
+    padding-top: 25px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    font-family: 'Inter';
+    font-style: normal;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#kleineKnop4:hover{
+    transform: scale(1.1);
+}
+#navbar1{
+    position: absolute;
+    width: 177px;
+    height: 52px;
+    left: 181px;
+    top: 63px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    text-decoration: none;
+}
+#navbar2{
+    position: absolute;
+    width: 177px;
+    height: 52px;
+    left: 360px;
+    top: 63px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    text-decoration: none;
+}
+#navbar3{
+    position: absolute;
+    width: 177px;
+    height: 52px;
+    left: 550px;
+    top: 63px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    text-decoration: none;
+}
+#navbar4{
+    position: absolute;
+    width: 177px;
+    height: 52px;
+    left: 745px;
+    top: 63px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    text-decoration: none; 
+}
+#navbar5{
+    position: absolute;
+    width: 177px;
+    height: 52px;
+    left: 929px;
+    top: 63px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    text-decoration: none;
+}
+#foto1{
+    padding-top: 120px;
+    margin-left: -100px;
+}
+
+#foto2{
+    padding-top: 0px;
+    margin-left: 405px;
+}
+#foto3{
+    margin-top: -610px;
+}
+#foto4{
+    padding-top: 0px;
+    margin-left: 385px;
+}
