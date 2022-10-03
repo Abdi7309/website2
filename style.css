@@ -203,8 +203,24 @@
 }
 #foto3{
     margin-top: -610px;
+    margin-left: 900px;
 }
 #foto4{
     padding-top: 0px;
     margin-left: 385px;
+}
+#tekst1{
+    padding-top: 0px;
+    margin-left: -100px;
+    inline-size: 500px;
+}
+#tekst2{
+    margin-top: -250px;
+    margin-left: 900px;
+    inline-size: 500px;
+}
+#tekst3{
+    margin-top: -550px;
+    margin-left: 400px;
+    inline-size: 500px;
 }
