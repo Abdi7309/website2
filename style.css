@@ -224,3 +224,43 @@
     margin-left: 400px;
     inline-size: 500px;
 }
+#overons1{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 1075px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons2{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 775px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons3{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 475px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
+#overons4{
+    position: absolute;
+    width: 275px;
+    height: 477px;
+    left: 175px;
+    top: 190px;
+    background: #FFFFFF;
+    transition: transform 0.5s;
+    border-radius: 15px;
+}
