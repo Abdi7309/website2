@@ -285,3 +285,18 @@
     left: 500px;
     top: 600px;
 }
+#tekst4{
+    padding-top: 0px;
+    margin-left: -100px;
+    inline-size: 470px;
+}
+#tekst5{
+    margin-top: -250px;
+    margin-left: 960px;
+    inline-size: 450px;
+}
+#tekst6{
+    margin-top: -600px;
+    margin-left: 400px;
+    inline-size: 500px;
+}
