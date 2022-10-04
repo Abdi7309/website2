@@ -233,6 +233,8 @@
     background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
+    text-align: center;
+    
 }
 #overons2{
     position: absolute;
@@ -243,6 +245,7 @@
     background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
+    text-align: center;
 }
 #overons3{
     position: absolute;
@@ -253,6 +256,7 @@
     background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
+    text-align: center;
 }
 #overons4{
     position: absolute;
@@ -263,4 +267,21 @@
     background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
+    text-align: center;
+}
+#insta1{
+    left: 500px;
+    top: 600px;
+}
+#insta2{
+    left: 500px;
+    top: 600px;
+}
+#insta3{
+    left: 500px;
+    top: 600px;
+}
+#insta4{
+    left: 500px;
+    top: 600px;
 }
