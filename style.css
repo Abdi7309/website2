@@ -244,6 +244,52 @@
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
   }
+  .binnenZ{
+    align-items: center;
+    left: 200px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .binnenZ:focus {
+    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+  }
+  
+  .binnenZ:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .binnenZ:active {
+    box-shadow: #426579 0 3px 7px inset;
+    transform: translateY(2px);
+  }
   .buiten{
     align-items: center;
     left: 250px;
@@ -287,6 +333,52 @@
   }
   
   .buiten:active {
+    box-shadow: #426579 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+  .buitenZ{
+    align-items: center;
+    left: 250px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .buitenZ:focus {
+    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+  }
+  
+  .buitenZ:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .buitenZ:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
   }
@@ -336,6 +428,52 @@
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
   }
+  .persoonZ{
+    align-items: center;
+    left: 300px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .persoonZ:focus {
+    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+  }
+  
+  .persoonZ:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .persoonZ:active {
+    box-shadow: #426579 0 3px 7px inset;
+    transform: translateY(2px);
+  }
   .gezin{
     align-items: center;
     left: 350px;
@@ -382,6 +520,52 @@
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
   }
+  .gezinZ{
+    align-items: center;
+    left: 350px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .gezinZ:focus {
+    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+  }
+  
+  .gezinZ:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .gezinZ:active {
+    box-shadow: #426579 0 3px 7px inset;
+    transform: translateY(2px);
+  }
   .overOns{
     align-items: center;
     left: 400px;
@@ -425,6 +609,52 @@
   }
   
   .overOns:active {
+    box-shadow: #426579 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+  .overOnsZ{
+    align-items: center;
+    left: 400px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .overOnsZ:focus {
+    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+  }
+  
+  .overOnsZ:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .overOnsZ:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
   }
