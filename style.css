@@ -24,7 +24,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
     transition: width 2s, height 2s;
 }
 #groteKnop:hover{
@@ -73,7 +73,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
     transition: width 2s, height 2s;
     
 }
@@ -97,7 +97,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
     transition: width 2s, height 2s;
 }
 #kleineKnop2:hover{
@@ -120,7 +120,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
     transition: width 2s, height 2s;
 }
 #kleineKnop3:hover{
@@ -143,7 +143,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
     transition: width 2s, height 2s;
 }
 #kleineKnop4:hover{
