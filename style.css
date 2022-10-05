@@ -617,7 +617,7 @@
     background-color: rgb(0, 0, 0);
     position: relative;
     animation-name: zb;
-    animation-duration: 14s;
+    animation-duration: 10s;
     animation-timing-function:ease;
     animation-delay: 0.5s;
     animation-iteration-count: infinite;
@@ -691,4 +691,7 @@ a {
     margin-top:-80px;
     margin-left: 1200px;
     font-family:Inter;  
+}
+.foto1{
+    border-radius: 8px;
 }
