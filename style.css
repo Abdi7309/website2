@@ -25,11 +25,12 @@
     transition: transform 0.5s;
     border-radius: 15px;
     box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
-    
+    transition: width 2s, height 2s;
 }
 #groteKnop:hover{
     transform: scale(1.1);
-   
+    height: 500px;
+    width: 400px;
 }
 #groteKnop h4{
     margin-top: 420px;
@@ -72,12 +73,13 @@
     transition: transform 0.5s;
     border-radius: 15px;
     box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
-    
+    transition: width 2s, height 2s;
     
 }
 #kleineKnop1:hover{
     transform: scale(1.1);
     width: 260px;
+    height: 230px;
 }
 #kleineKnop2{
     position: absolute;
@@ -94,10 +96,12 @@
     transition: transform 0.5s;
     border-radius: 15px;
     box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    transition: width 2s, height 2s;
 }
 #kleineKnop2:hover{
     transform: scale(1.1);
     width: 260px;
+    height: 230px;
 }
 #kleineKnop3{
     position: absolute;
@@ -114,10 +118,12 @@
     transition: transform 0.5s;
     border-radius: 15px;
     box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    transition: width 2s, height 2s;
 }
 #kleineKnop3:hover{
     transform: scale(1.1);
-    width: 260px;
+    width: 270px;
+    height: 230px;
 }
 #kleineKnop4{
     position: absolute;
@@ -134,10 +140,12 @@
     transition: transform 0.5s;
     border-radius: 15px;
     box-shadow: 10px 10px 5px 12px rgb(90, 90, 126);
+    transition: width 2s, height 2s;
 }
 #kleineKnop4:hover{
     transform: scale(1.1);
     width: 260px;
+    height: 230px;
 }
 #navbar1{
     position: absolute;
