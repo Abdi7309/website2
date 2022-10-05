@@ -587,7 +587,11 @@
     margin-left: 935px;
 }
 
+.bubbles img {
+    width: 50px;
+animation: bubbles 7s linear infinite;
 
+}
 
 
 
@@ -606,16 +610,16 @@
 
     0% {
         transform: translateY(0);
-        opacity: 0;
+        opacity: 0.1;
     }
 
 
     50% {
-        opacity: 1;
+        opacity: 0.2;
     }
 
     70% {
-        opacity: 1;
+        opacity: 0.3;
 
     }
 
@@ -623,14 +627,14 @@
 
     100% {
         transform: translateY(-80vh);
-        opacity: 0;
+        opacity: 0.1;
     }
 
 
 }
 
 .bubbles img:nth-child(1){
-    animation-delay: 1s;
+    animation-delay: 0.1s;
 }
 
 .bubbles img:nth-child(2){
@@ -649,13 +653,9 @@
     animation-delay: 6s;
 }
 
-.bubbles img:nth-child(6){
-    animation-delay: 7s;
-}
 
-.bubbles img:nth-child(7){
-    animation-delay: 5.5s;
-}
+
+
 
 #zb{
     width: 50px;
