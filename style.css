@@ -610,6 +610,28 @@
 .bubbles img:nth-child(7){
     animation-delay: 5.5s;
 }
+
+#zb{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    animation-name: zb;
+    animation-duration: 14s;
+    animation-timing-function:ease-in-out;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+    animation-direction:alternate ;
+    top: 100px;
+    left: 70px;
+  }
+  @keyframes zb {
+    0%   {background-color:grey; left:1300px; top:110px;}
+    25%  {background-color:rgb(0, 0, 0); left:-100px; top:110px;}
+    50%  {background-color:grey; left:-100px; top:700px;}
+    75%  {background-color:rgb(255, 255, 255); left:1350px; top:700px;}
+    100% {background-color:rgb(12, 12, 12); left:1350px; top:120px;}
+  }
 * {box-sizing: border-box}
 
 
