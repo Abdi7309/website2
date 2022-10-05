@@ -868,7 +868,7 @@ animation: bubbles 7s linear infinite;
     background-color: rgb(0, 0, 0);
     position: relative;
     animation-name: zb;
-    animation-duration: 10s;
+    animation-duration: 3s;
     animation-timing-function:ease;
     animation-delay: 0.5s;
     animation-iteration-count: infinite;
@@ -884,6 +884,8 @@ animation: bubbles 7s linear infinite;
     100% {background-color:grey; left:1340px; top:120px;}
   }
 * {box-sizing: border-box}
+
+
 
 
 .container {
@@ -931,3 +933,13 @@ a {
     margin-left: 1200px;
     font-family:Inter;  
 }
+a:link, a:visited {
+    background-color: rgb(130, 130, 130);
+    color: black;
+   
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
