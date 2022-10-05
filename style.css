@@ -51,10 +51,10 @@
     background-image:url(posters-grijze-achtergrond.jpg.jpg);
     border: 1px solid #000000;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    font-family: 'Inter';
+    font-family: "JetBrains Mono",monospace;
     font-style: normal;
     font-weight: 400;
-    font-size: 48px;
+    font-size: 39px;
     line-height: 88px;
     text-align: left;
     padding-left: 40px;
