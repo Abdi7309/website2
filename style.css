@@ -931,3 +931,13 @@ a {
     margin-left: 1200px;
     font-family:Inter;  
 }
+a:link, a:visited {
+    background-color: rgb(130, 130, 130);
+    color: black;
+   
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
