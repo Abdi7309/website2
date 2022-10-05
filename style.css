@@ -3,7 +3,6 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
-
 .background{
     width: 100%;
     height: 100vh;
@@ -13,7 +12,6 @@
     padding-left: 8%;
     padding-right: 8%;
     box-sizing: border-box;
-
 }
 #groteKnop{
     position: absolute;
@@ -76,7 +74,6 @@
     background-image:url(posters-grijze-achtergrond.jpg.jpg);
     box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
     transition: width 2s, height 2s;
-    
 }
 #kleineKnop1:hover{
     transform: scale(1.1);
@@ -184,16 +181,13 @@
   will-change: box-shadow,transform;
   font-size: 18px;
 }
-
 .Home:focus {
   box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
 }
-
 .Home:hover {
   box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   transform: translateY(-2px);
 }
-
 .Home:active {
   box-shadow: #426579 0 3px 7px inset;
   transform: translateY(2px);
@@ -230,16 +224,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .binnen:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .binnen:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .binnen:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -276,16 +267,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .buiten:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .buiten:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .buiten:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -322,16 +310,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .persoon:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .persoon:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .persoon:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -368,16 +353,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .gezin:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .gezin:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .gezin:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -414,16 +396,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .overOns:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .overOns:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .overOns:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -460,16 +439,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .register:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .register:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .register:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -478,7 +454,6 @@
     padding-top: 120px;
     margin-left: -100px;
 }
-
 #foto2{
     padding-top: 0px;
     margin-left: 405px;
@@ -516,7 +491,6 @@
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
-    
 }
 #overons2{
     position: absolute;
@@ -603,7 +577,6 @@ animation: bubbles 7s linear infinite;
     position: absolute;
     bottom: 0;
 }
-
 @keyframes bubbles {
 
 
@@ -636,21 +609,23 @@ animation: bubbles 7s linear infinite;
 .bubbles img:nth-child(1){
     animation-delay: 0.1s;
 }
-
 .bubbles img:nth-child(2){
     animation-delay: 2s;
 }
-
 .bubbles img:nth-child(3){
     animation-delay: 4.5s;
 }
-
 .bubbles img:nth-child(4){
     animation-delay: 3s;
 }
-
 .bubbles img:nth-child(5){
     animation-delay: 6s;
+}
+.bubbles img:nth-child(6){
+    animation-delay: 7s;
+}
+.bubbles img:nth-child(7){
+    animation-delay: 5.5s;
 }
 
 
@@ -685,8 +660,6 @@ animation: bubbles 7s linear infinite;
   padding: 16px;
   padding-top: 150px;
 }
-
-
 input[type=text], input[type=password] {
   width: 100%;
   padding: 15px;
@@ -695,19 +668,14 @@ input[type=text], input[type=password] {
   border: none;
   background: #f1f1f1;
 }
-
 input[type=text]:focus, input[type=password]:focus {
   background-color: #ddd;
   outline: none;
 }
-
-
 hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
 }
-
-
 .registerbtn {
   background-color: #3c4fe0;
   color: white;
@@ -718,17 +686,12 @@ hr {
   width: 100%;
   opacity: 0.9;
 }
-
 .registerbtn:hover {
   opacity:1;
 }
-
-
 a {
   color: dodgerblue;
 }
-
-
 .signin {
   background-color: #f1f1f1;
   text-align: center;
