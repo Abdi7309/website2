@@ -7,7 +7,7 @@
 .background{
     width: 100%;
     height: 100vh;
-    background-image:url(be-your-own-muse-achtergrond-02.jpg);
+    background-image:url(glad-donkerblauw-met-zwarte-vignet-studio-goed-gebruikt-als-achtergrond-bedrijfsrapport-digitaal-website-sjabloon_1258-748.jpg);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -21,12 +21,16 @@
     height: 477px;
     left: 163px;
     top: 190px;
-    background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
+    transition: width 2s, height 2s;
 }
 #groteKnop:hover{
     transform: scale(1.1);
+    height: 500px;
+    width: 400px;
 }
 #groteKnop h4{
     margin-top: 420px;
@@ -44,15 +48,16 @@
     height: 100px;
     left: 0px;
     top: 0px;
-    background: #FFFFFF;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
     border: 1px solid #000000;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 48px;
-    line-height: 58px;
-    text-align: center;
+    line-height: 88px;
+    text-align: left;
+    padding-left: 40px;
 }
 #kleineKnop1{
     position: absolute;
@@ -68,9 +73,15 @@
     font-style: normal;
     transition: transform 0.5s;
     border-radius: 15px;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
+    transition: width 2s, height 2s;
+    
 }
 #kleineKnop1:hover{
     transform: scale(1.1);
+    width: 260px;
+    height: 230px;
 }
 #kleineKnop2{
     position: absolute;
@@ -86,9 +97,14 @@
     font-style: normal;
     transition: transform 0.5s;
     border-radius: 15px;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
+    transition: width 2s, height 2s;
 }
 #kleineKnop2:hover{
     transform: scale(1.1);
+    width: 260px;
+    height: 230px;
 }
 #kleineKnop3{
     position: absolute;
@@ -104,9 +120,14 @@
     font-style: normal;
     transition: transform 0.5s;
     border-radius: 15px;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
+    transition: width 2s, height 2s;
 }
 #kleineKnop3:hover{
     transform: scale(1.1);
+    width: 270px;
+    height: 230px;
 }
 #kleineKnop4{
     position: absolute;
@@ -122,76 +143,291 @@
     font-style: normal;
     transition: transform 0.5s;
     border-radius: 15px;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    box-shadow: 10px 10px 5px 12px rgb(115, 121, 128);
+    transition: width 2s, height 2s;
 }
 #kleineKnop4:hover{
     transform: scale(1.1);
+    width: 260px;
+    height: 230px;
 }
-#navbar1{
-    position: absolute;
-    width: 177px;
-    height: 52px;
-    left: 181px;
-    top: 63px;
-    font-size: 24px;
-    line-height: 29px;
-    color: #000000;
+.Home{
+  align-items: center;
+  left: 150px;
+  appearance: none;
+  background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+  border: 0;
+  border-radius: 6px;
+  box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "JetBrains Mono",monospace;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  background-image:url(posters-grijze-achtergrond.jpg.jpg);
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s,transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 18px;
+}
+
+.Home:focus {
+  box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+}
+
+.Home:hover {
+  box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.Home:active {
+  box-shadow: #3c4fe0 0 3px 7px inset;
+  transform: translateY(2px);
+}
+.binnen{
+    align-items: center;
+    left: 200px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
     text-decoration: none;
-}
-#navbar2{
-    position: absolute;
-    width: 177px;
-    height: 52px;
-    left: 360px;
-    top: 63px;
-    font-size: 24px;
-    line-height: 29px;
-    color: #000000;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .binnen:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .binnen:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .binnen:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+  .buiten{
+    align-items: center;
+    left: 250px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
     text-decoration: none;
-}
-#navbar3{
-    position: absolute;
-    width: 177px;
-    height: 52px;
-    left: 550px;
-    top: 63px;
-    font-size: 24px;
-    line-height: 29px;
-    color: #000000;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .buiten:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .buiten:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .buiten:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+  .persoon{
+    align-items: center;
+    left: 300px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
     text-decoration: none;
-}
-#navbar4{
-    position: absolute;
-    width: 177px;
-    height: 52px;
-    left: 745px;
-    top: 63px;
-    font-size: 24px;
-    line-height: 29px;
-    color: #000000;
-    text-decoration: none; 
-}
-#navbar5{
-    position: absolute;
-    width: 177px;
-    height: 52px;
-    left: 929px;
-    top: 63px;
-    font-size: 24px;
-    line-height: 29px;
-    color: #000000;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .persoon:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .persoon:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .persoon:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+  .gezin{
+    align-items: center;
+    left: 350px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
     text-decoration: none;
-}
-#navbar6{
-    position: absolute;
-    width: 177px;
-    height: 52px;
-    left: 1119px;
-    top: 63px;
-    font-size: 24px;
-    line-height: 29px;
-    color: #000000;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .gezin:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .gezin:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .gezin:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+  .overOns{
+    align-items: center;
+    left: 400px;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    background-image:url(posters-grijze-achtergrond.jpg.jpg);
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
     text-decoration: none;
-}
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+  }
+  
+  .overOns:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .overOns:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .overOns:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+  }
 #foto1{
     padding-top: 120px;
     margin-left: -100px;
@@ -308,73 +544,4 @@
 
 
 
-.bubbles img {
-    width: 50px;
-animation: bubbles 7s linear infinite;
-}
 
-.bubbles {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    position: absolute;
-    bottom: 0;
-}
-
-@keyframes bubbles {
-
-
-
-    0% {
-        transform: translateY(0);
-        opacity: 0;
-    }
-
-
-    50% {
-        opacity: 1;
-    }
-
-    70% {
-        opacity: 1;
-
-    }
-
-
-
-    100% {
-        transform: translateY(-80vh);
-        opacity: 0;
-    }
-
-
-}
-
-.bubbles img:nth-child(1){
-    animation-delay: 1s;
-}
-
-.bubbles img:nth-child(2){
-    animation-delay: 2s;
-}
-
-.bubbles img:nth-child(3){
-    animation-delay: 4.5s;
-}
-
-.bubbles img:nth-child(4){
-    animation-delay: 3s;
-}
-
-.bubbles img:nth-child(5){
-    animation-delay: 6s;
-}
-
-.bubbles img:nth-child(6){
-    animation-delay: 7s;
-}
-
-.bubbles img:nth-child(7){
-    animation-delay: 5.5s;
-}
