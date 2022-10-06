@@ -721,6 +721,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
+    word-spacing: 2px;
 }
 #overons2{
     position: absolute;
@@ -732,6 +733,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
+    word-spacing: 2px;
 }
 #overons3{
     position: absolute;
@@ -743,6 +745,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
+    word-spacing: 2px;
 }
 #overons4{
     position: absolute;
@@ -754,22 +757,7 @@
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
-}
-#insta1{
-    left: 500px;
-    margin-top: 400px;
-}
-#insta2{
-    left: 500px;
-    margin-top: 400px;
-}
-#insta3{
-    left: 500px;
-    margin-top: 400px;
-}
-#insta4{
-    left: 500px;
-    top: 600px;
+    word-spacing: 2px;
 }
 #tekst4{
     padding-top: 0px;
