@@ -717,11 +717,12 @@
     height: 477px;
     left: 1075px;
     top: 190px;
-    background: #FFFFFF;
+    background: grey;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
+    color: white;
 }
 #overons2{
     position: absolute;
@@ -729,11 +730,12 @@
     height: 477px;
     left: 775px;
     top: 190px;
-    background: #FFFFFF;
+    background: grey;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
+    color: white;
 }
 #overons3{
     position: absolute;
@@ -741,11 +743,12 @@
     height: 477px;
     left: 475px;
     top: 190px;
-    background: #FFFFFF;
+    background: grey;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
+    color:white
 }
 #overons4{
     position: absolute;
@@ -753,11 +756,12 @@
     height: 477px;
     left: 175px;
     top: 190px;
-    background: #FFFFFF;
+    background: grey;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
+    color: white;
 }
 #tekst4{
     padding-top: 0px;
@@ -947,4 +951,20 @@ a:link, a:visited {
   }
 #jow{
   text-align: center;
+}
+#insta1{
+  left: 500px;
+  margin-top: 200px;
+}
+#insta2{
+  left: 500px;
+  margin-top: 200px;
+}
+#insta3{
+  left: 500px;
+  margin-top: 200px;
+}
+#insta4{
+  left: 500px;
+  margin-top: 200px;
 }
