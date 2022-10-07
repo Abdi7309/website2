@@ -709,6 +709,9 @@
     word-spacing: 2px;
     color: balck;
 }
+#overons1 p{
+  padding-top: 50px;
+}
 #overons2{
     position: absolute;
     width: 275px;
@@ -721,6 +724,9 @@
     text-align: center;
     word-spacing: 2px;
     color: balck;
+}
+#overons2 p{
+  padding-top: 50px;
 }
 #overons3{
     position: absolute;
@@ -735,6 +741,9 @@
     word-spacing: 2px;
     color: balck;
 }
+#overons3 p{
+  padding-top: 50px;
+}
 #overons4{
     position: absolute;
     width: 275px;
@@ -747,6 +756,9 @@
     text-align: center;
     word-spacing: 2px;
     color: balck;
+}
+#overons4 p{
+  padding-top: 50px;
 }
 #tekst4{
     padding-top: 0px;
@@ -921,19 +933,10 @@ a:link, a:visited {
 #jow{
   text-align: center;
 }
-#insta1{
+#insta{
   left: 500px;
-  margin-top: 200px;
+  margin-top: 50px;
 }
-#insta2{
-  left: 500px;
-  margin-top: 200px;
-}
-#insta3{
-  left: 500px;
-  margin-top: 200px;
-}
-#insta4{
-  left: 500px;
-  margin-top: 200px;
+#snap{
+
 }
