@@ -267,16 +267,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .binnenZ:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .binnenZ:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .binnenZ:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -356,16 +353,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .buitenZ:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .buitenZ:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .buitenZ:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -445,16 +439,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .persoonZ:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .persoonZ:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .persoonZ:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -534,16 +525,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .gezinZ:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .gezinZ:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .gezinZ:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -623,16 +611,13 @@
     will-change: box-shadow,transform;
     font-size: 18px;
   }
-  
   .overOnsZ:focus {
     box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
   }
-  
   .overOnsZ:hover {
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
     transform: translateY(-2px);
   }
-  
   .overOnsZ:active {
     box-shadow: #426579 0 3px 7px inset;
     transform: translateY(2px);
@@ -782,15 +767,10 @@
     margin-top: -610px;
     margin-left: 935px;
 }
-
 .bubbles img {
     width: 50px;
 animation: bubbles 7s linear infinite;
-
 }
-
-
-
 .bubbles {
     width: 100%;
     display: flex;
@@ -827,7 +807,6 @@ animation: bubbles 7s linear infinite;
 
 
 }
-
 .bubbles img:nth-child(1){
     animation-delay: 0.1s;
 }
@@ -849,11 +828,6 @@ animation: bubbles 7s linear infinite;
 .bubbles img:nth-child(7){
     animation-delay: 2.8s;
 }
-
-
-
-
-
 #zb{
     width: 50px;
     height: 50px;
@@ -877,10 +851,6 @@ animation: bubbles 7s linear infinite;
     100% {background-color:grey; left:1340px; top:120px;}
   }
 * {box-sizing: border-box}
-
-
-
-
 .container {
   padding: 16px;
   padding-top: 150px;
@@ -946,8 +916,7 @@ a:link, a:visited {
     box-sizing: border-box;
   }
   #music{
-    width: 1px;
-    
+    width: 1px; 
   }
 #jow{
   text-align: center;
