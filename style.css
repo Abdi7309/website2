@@ -702,12 +702,12 @@
     height: 477px;
     left: 1075px;
     top: 190px;
-    background: grey;
+    background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
-    color: white;
+    color: balck;
 }
 #overons2{
     position: absolute;
@@ -715,12 +715,12 @@
     height: 477px;
     left: 775px;
     top: 190px;
-    background: grey;
+    background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
-    color: white;
+    color: balck;
 }
 #overons3{
     position: absolute;
@@ -728,12 +728,12 @@
     height: 477px;
     left: 475px;
     top: 190px;
-    background: grey;
+    background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
-    color:white
+    color: balck;
 }
 #overons4{
     position: absolute;
@@ -741,12 +741,12 @@
     height: 477px;
     left: 175px;
     top: 190px;
-    background: grey;
+    background: #FFFFFF;
     transition: transform 0.5s;
     border-radius: 15px;
     text-align: center;
     word-spacing: 2px;
-    color: white;
+    color: balck;
 }
 #tekst4{
     padding-top: 0px;
