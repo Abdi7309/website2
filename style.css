@@ -671,30 +671,30 @@
 }
 #foto2{
     padding-top: 0px;
-    margin-left: 405px;
+    margin-left: 475px;
 }
 #foto3{
     margin-top: -610px;
-    margin-left: 955px;
+    margin-left: 1000px;
 }
 #foto4{
     padding-top: 0px;
     margin-left: 385px;
 }
 #tekst1{
-    padding-top: 0px;
+    padding-top: 75px;
     margin-left: -100px;
     inline-size: 500px;
 }
 #tekst2{
-    margin-top: -250px;
-    margin-left: 900px;
-    inline-size: 500px;
+    margin-top: -300px;
+    margin-left: 1000px;
+    inline-size: 400px;
 }
 #tekst3{
-    margin-top: -550px;
-    margin-left: 400px;
-    inline-size: 500px;
+    margin-top: -450px;
+    margin-left: 500px;
+    inline-size: 400px;
 }
 #overons1{
     position: absolute;
