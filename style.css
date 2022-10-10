@@ -149,522 +149,6 @@
     width: 260px;
     height: 230px;
 }
-.Home{
-  align-items: center;
-  left: 150px;
-  appearance: none;
-  background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-  border: 0;
-  border-radius: 6px;
-  box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-  box-sizing: border-box;
-  color: #fff;
-  cursor: pointer;
-  display: inline-flex;
-  font-family: "JetBrains Mono",monospace;
-  height: 48px;
-  justify-content: center;
-  line-height: 1;
-  list-style: none;
-  overflow: hidden;
-  background-image:url(posters-grijze-achtergrond.jpg.jpg);
-  padding-left: 16px;
-  padding-right: 16px;
-  position: relative;
-  text-align: left;
-  text-decoration: none;
-  transition: box-shadow .15s,transform .15s;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  white-space: nowrap;
-  will-change: box-shadow,transform;
-  font-size: 18px;
-}
-.Home:focus {
-  box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-}
-.Home:hover {
-  box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  transform: translateY(-2px);
-}
-.Home:active {
-  box-shadow: #426579 0 3px 7px inset;
-  transform: translateY(2px);
-}
-.binnen{
-    align-items: center;
-    left: 200px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .binnen:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .binnen:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .binnen:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .binnenZ{
-    align-items: center;
-    left: 200px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .binnenZ:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .binnenZ:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .binnenZ:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .buiten{
-    align-items: center;
-    left: 250px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .buiten:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .buiten:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .buiten:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .buitenZ{
-    align-items: center;
-    left: 250px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .buitenZ:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .buitenZ:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .buitenZ:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .persoon{
-    align-items: center;
-    left: 300px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .persoon:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .persoon:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .persoon:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .persoonZ{
-    align-items: center;
-    left: 300px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .persoonZ:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .persoonZ:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .persoonZ:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .gezin{
-    align-items: center;
-    left: 350px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .gezin:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .gezin:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .gezin:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .gezinZ{
-    align-items: center;
-    left: 350px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .gezinZ:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .gezinZ:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .gezinZ:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .overOns{
-    align-items: center;
-    left: 400px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .overOns:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .overOns:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .overOns:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .overOnsZ{
-    align-items: center;
-    left: 400px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .overOnsZ:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .overOnsZ:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .overOnsZ:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
-  .register{
-    align-items: center;
-    margin-left: 900px;
-    appearance: none;
-    background-image: radial-gradient(100% 100% at 100% 0, #426579 0, #426579 100%);
-    border: 0;
-    border-radius: 6px;
-    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
-    box-sizing: border-box;
-    color: #fff;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: "JetBrains Mono",monospace;
-    height: 48px;
-    justify-content: center;
-    line-height: 1;
-    list-style: none;
-    overflow: hidden;
-    background-image:url(posters-grijze-achtergrond.jpg.jpg);
-    padding-left: 16px;
-    padding-right: 16px;
-    position: relative;
-    text-align: left;
-    text-decoration: none;
-    transition: box-shadow .15s,transform .15s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    white-space: nowrap;
-    will-change: box-shadow,transform;
-    font-size: 18px;
-  }
-  .register:focus {
-    box-shadow: #426579 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-  }
-  .register:hover {
-    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #426579 0 -3px 0 inset;
-    transform: translateY(-2px);
-  }
-  .register:active {
-    box-shadow: #426579 0 3px 7px inset;
-    transform: translateY(2px);
-  }
 #foto1{
     padding-top: 120px;
     margin-left: -100px;
@@ -685,6 +169,10 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+#foto31{
+  margin-top: -310px;
+  margin-left: 955px;
+}
 #tekst1{
     padding-top: 75px;
     margin-left: -100px;
@@ -699,6 +187,21 @@
     margin-top: -450px;
     margin-left: 500px;
     inline-size: 400px;
+}
+#tekst51{
+  margin-top: -170px;
+  margin-left: -100px;
+  inline-size: 470px;
+}
+#tekst41{
+  margin-top: -270px;
+  margin-left: 955px;
+  inline-size: 400px;
+}
+#tekst61{
+  margin-top: -490px;
+  margin-left: 450px;
+  inline-size: 400px;
 }
 #overons1{
     position: absolute;
@@ -942,3 +445,19 @@ a:link, a:visited {
   margin-top: 50px;
 }
 
+#tekst7{
+  padding-top: 50px;
+  margin-left: -100px;
+  inline-size: 450px;
+}
+#tekst8{
+ margin-top: -500px;
+  margin-left: 500px;
+  inline-size: 450px;
+}
+#tekst9{
+ top: 40px;
+  margin-left: 1030px;
+  inline-size: 450px;
+ position: relative;
+}
