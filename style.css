@@ -685,6 +685,10 @@
     padding-top: 0px;
     margin-left: 385px;
 }
+#foto31{
+  margin-top: -310px;
+  margin-left: 955px;
+}
 #tekst1{
     padding-top: 75px;
     margin-left: -100px;
@@ -699,6 +703,21 @@
     margin-top: -450px;
     margin-left: 500px;
     inline-size: 400px;
+}
+#tekst51{
+  margin-top: -170px;
+  margin-left: -100px;
+  inline-size: 470px;
+}
+#tekst41{
+  margin-top: -270px;
+  margin-left: 955px;
+  inline-size: 400px;
+}
+#tekst61{
+  margin-top: -490px;
+  margin-left: 450px;
+  inline-size: 400px;
 }
 #overons1{
     position: absolute;
